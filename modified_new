@@ -1,0 +1,46 @@
+,Creditor,Debtor,Amount,Risk
+44,Ireland,Greece,0.34,High Risk
+43,Portugal,United States,0.52,Stable
+42,Britain,Greece,0.55,High Risk
+41,Spain,Greece,0.78,High Risk
+40,Italy,Portugal,0.87,High Risk
+39,Japan,Greece,1.37,High Risk
+38,Japan,Portugal,2.18,High Risk
+37,Italy,Ireland,2.83,High Risk
+36,United States,Greece,3.1,High Risk
+35,United States,Italy,3.16,High Risk
+34,Italy,Greece,3.22,High Risk
+33,Portugal,Ireland,3.77,High Risk
+32,Ireland,Spain,6.38,Medium Risk
+31,France,Japan,7.73,Stable
+30,Spain,Italy,9.79,High Risk
+29,Portugal,Greece,10.1,High Risk
+28,United States,Ireland,11.1,High Risk
+27,Ireland,Britain,12.0,Stable
+26,France,Ireland,17.3,High Risk
+25,France,Portugal,18.3,High Risk
+24,Japan,Ireland,18.9,High Risk
+23,Germany,Greece,19.3,High Risk
+22,Britain,Portugal,19.4,High Risk
+21,Britain,France,22.4,Low Risk
+20,Japan,Spain,25.9,Medium Risk
+19,Britain,Italy,26.0,High Risk
+18,Japan,Britain,28.2,Stable
+17,Germany,Portugal,32.5,High Risk
+16,Japan,Italy,38.8,High Risk
+15,Germany,Ireland,48.9,High Risk
+14,France,Germany,53.8,Stable
+13,France,Greece,53.9,High Risk
+12,Germany,Spain,57.6,Medium Risk
+11,Spain,Portugal,62.0,High Risk
+10,Japan,Germany,88.5,Stable
+9,Italy,Germany,111.0,Stable
+8,France,Spain,118.0,Medium Risk
+7,Spain,United States,163.0,Stable
+6,Germany,Britain,321.0,Stable
+5,France,United States,322.0,Stable
+4,Germany,United States,324.0,Stable
+3,Spain,Britain,326.0,Stable
+2,Britain,United States,345.0,Stable
+1,France,Italy,366.0,High Risk
+0,Japan,United States,796.0,Stable
